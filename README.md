@@ -1,6 +1,8 @@
 # nardl
 (Nonlinear ARDL (Autoregressive Distributed Lag Model) NARDL) regression Use nardl With R Software
 
+https://www.youtube.com/watch?v=rnqY59LJKiM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
